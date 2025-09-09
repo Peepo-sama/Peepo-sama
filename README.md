@@ -1,6 +1,6 @@
 # Hi, I'm Peepo-sama! 👋
 
-I am a 3th-year high school student in Italy finishing my studies.  
+I am a 4th-year high school student in Italy finishing my studies.  
 Currently working on web projects and developing small software in C++. I'm all about turning ideas into digital experiences and learning new skills along the way.
 
 ---
